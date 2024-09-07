@@ -4,6 +4,7 @@ public class archivo1{
     public static void main(String[] args){
         Scanner cin=new Scanner(System.in);
 
+        System.out.println("generando cambios en el archivo1");
         System.out.println("ingrese el primer numero:");
         int a=cin.nextInt();
         System.out.println("ingrese el segundo numero:");
